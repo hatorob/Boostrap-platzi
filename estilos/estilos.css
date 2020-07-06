@@ -1,0 +1,17 @@
+#header img {
+    width: 90px;
+}
+
+.text-platzi {
+    color: #97c93e !important;
+}
+
+
+#footer {
+    background: #273D4A;
+   
+}
+#footer a {
+    text-decoration: none;
+    color: white;
+}
