@@ -32,8 +32,14 @@
     height: 100%;
 }
 
-.aling-items-center {
+.btn-platzi {
+    background-color: #97c93e !important;
+    color: white;
+}
 
+.btn-platzi:hover {
+    background-color: #3f5f06 !important;
+    color: white;    
 }
 
 /* footer */
