@@ -42,6 +42,16 @@
     color: white;    
 }
 
+/* lugar y fecha */
+#place-time {
+    background-color: #1D252C;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
+}
+
 /* footer */
 
 #footer {
